@@ -1,2 +1,4 @@
-# CSCE1015 - Hochstetler
-Assignment repository for UNT CSCE1015
+## EUID
+dv0580
+## Favorite Food
+steak
